@@ -1,7 +1,7 @@
 {
   "name": "magpie-intern-ai",
-  "version": "0.1.1",
-  "description": "书生端砚 (InternAI Discovery) providers for Magpie / OpenCode — OpenAI 兼容与 Anthropic/SystemOne 双协议，多账号 API key。",
+  "version": "0.4.0",
+  "description": "书生端砚 (InternAI Discovery) providers for Magpie / OpenCode — OpenAI 兼容与 Anthropic/SystemOne 双协议，多账号 API key，用量概览看板。",
   "type": "module",
   "main": "index.mjs",
   "exports": {
